@@ -13,14 +13,14 @@ Lead Developer with 4+ years of experience specializing in AI, blockchain, and f
 
 ## 🚀 Skills
 
-**Languages:** Python, TypeScript, JavaScript, C#
-**AI Platforms:** Google Vertex AI, Azure OpenAI, AWS Bedrock, Prompt Engineering, Guardrails, Langchain
-**Blockchain:** Substrate, Ethereum, Cardano
-**Databases:** MongoDB, DynamoDB, Firestore, Aurora MySQL, GraphQL
-**Cloud:** AWS, GCP, Azure
-**Low-Code:** Power Automate, Power Virtual Agents, Retool
-**DevOps:** CodePipeline, Jenkins, Docker
-**Version Control:** Git and related tools
+- **Languages:** Python, TypeScript, JavaScript, C#
+- **AI Platforms:** Google Vertex AI, Azure OpenAI, AWS Bedrock, Prompt Engineering, Guardrails, Langchain
+- **Blockchain:** Substrate, Ethereum, Cardano
+- **Databases:** MongoDB, DynamoDB, Firestore, Aurora MySQL, GraphQL
+- **Cloud:** AWS, GCP, Azure
+- **Low-Code:** Power Automate, Power Virtual Agents, Retool
+- **DevOps:** CodePipeline, Jenkins, Docker
+- **Version Control:** Git and related tools
 
 
 ## 🏅 Awards & Certifications
